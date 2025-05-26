@@ -95,7 +95,7 @@ async function playRaceEngine(character1, character2) {
         }
 
         console.log("---------------------------------------------------------")
-        await sleep(2000)
+        await sleep(3000)
     }
 }
 
